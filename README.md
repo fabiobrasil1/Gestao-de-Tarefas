@@ -1,6 +1,5 @@
 Gestao-de-Tarefas
 
-RF01- O sistema permite o cadastrar de colaboradores no banco de dados;
 RF01- O sistema permite o cadastro de colaboradores no banco de dados;
 RF02- É permitido atualizar os dados do colaborador cadastrado;
 RF03- A aplicação permite listar todos os colaboradores cadastrados;
